@@ -9,12 +9,12 @@ Welcome to Learn4Growth, a collaborative learning application designed by like-m
 ### Instant Answers with QR Code Scanning
 Learn4Growth streamlines the process of finding answers. With a simple QR code scan, students can access perfect answers to their questions instantly. No more tedious searching or flipping through textbooks.
 
-![Landing Page](C:\Users\namra\Desktop\Screenshot2.png)
+![Landing Page](screenshots/Screenshot2.png)
 
 ### Enhance Understanding with the "Don't Understand" Button
 We understand that some concepts can be challenging to grasp. That's why we've added a special feature—the "Don't Understand" button. If a student finds an answer difficult to comprehend, they can click the "Don't Understand" button to access a comprehensive video explanation, supporting their journey toward mastery.
 
-![Admin Page](C:\Users\namra\Desktop\Screenshot3.png)
+![Admin Page](screenshots/Screenshot3.png)
 
 ### Queuing of Video Explanations
 To foster a deeper understanding, Learn4Growth allows students to queue video explanations. If multiple questions require further clarification, the application intelligently queues the video explanations, ensuring a seamless learning experience without interruptions.
