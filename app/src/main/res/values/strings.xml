@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Learn4Growth</string>
+    <string name="attempt_all_ques">YOU MUST ATTEMPT ALL THE QUESTIONS</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+</resources>
